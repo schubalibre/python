@@ -1,0 +1,2 @@
+import sys
+if len(sys.argv) < 2 : print("Es mussen mindestens 2 Parameter ubergeben werden.")
