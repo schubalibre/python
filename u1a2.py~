@@ -1,4 +1,0 @@
-import sys
-
-for i, x in reversed(list(enumerate(sys.argv))):
-    print i, x
