@@ -1,7 +1,0 @@
-d={"OS":("Linux","Open Solaris",["Free BSD","Open BSD"],{"Minix":["V2","V3"]}),"TEST":("a","b")}
-print d["OS"][3]
-print d["OS"][2][-1:][0][-2:]
-print d.keys()
-print d.values()
-print d.items()
-
